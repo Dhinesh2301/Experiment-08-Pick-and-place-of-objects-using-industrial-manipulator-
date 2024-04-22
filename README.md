@@ -99,6 +99,14 @@ and click on the connect icon
 
 
 ### output video and screen shots of pick and place 
+![WhatsApp Image 2024-04-22 at 10 52 43_8c7c7163](https://github.com/Dhinesh2301/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/151379545/0a2b3501-aaf3-4102-8cb6-78d074831be2)
+![WhatsApp Image 2024-04-22 at 10 52 43_5d01d2e0](https://github.com/Dhinesh2301/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/151379545/04f2a1c0-fd48-41db-abae-ff70e60980de)
+![WhatsApp Image 2024-04-22 at 10 52 43_9b20e1de](https://github.com/Dhinesh2301/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/151379545/6b8a5111-3d3c-4ced-a6f2-a9c3d89a0149)
+![WhatsApp Image 2024-04-22 at 10 52 43_57cd0d2a](https://github.com/Dhinesh2301/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/151379545/010c3e13-d8bc-46b2-b708-2819765fc6e6)
+![WhatsApp Image 2024-04-22 at 10 52 44_b2636843](https://github.com/Dhinesh2301/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/151379545/31029600-54a2-48a8-8419-902cefde98d0)
+![WhatsApp Image 2024-04-22 at 10 52 44_7cfc0dc5](https://github.com/Dhinesh2301/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/151379545/d3a6c6af-f336-45b0-ab73-624bca99641a)
+![WhatsApp Image 2024-04-22 at 10 52 44_6c28b634](https://github.com/Dhinesh2301/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/151379545/abb70d20-df26-4794-a1a5-bc349ad4e418)
+![WhatsApp Image 2024-04-22 at 10 52 44_cee25844](https://github.com/Dhinesh2301/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/151379545/8dbab143-2d5b-497d-8adb-5a4663b29e91)
 
 
 
